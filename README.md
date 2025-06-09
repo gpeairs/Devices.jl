@@ -5,6 +5,9 @@
 [![](https://img.shields.io/badge/docs-stable-blue.svg)](https://painterqubits.github.io/Devices.jl/stable)
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://painterqubits.github.io/Devices.jl/latest)
 
+> [!TIP]
+> A successor package, [DeviceLayout.jl](https://github.com/aws-cqc/DeviceLayout.jl), has been released. It is derived from Devices.jl and contains many new features and fixes.
+
 # Devices.jl
 
 For simplified generation of device CAD files.
