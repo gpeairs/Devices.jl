@@ -3,6 +3,9 @@
 A [Julia](http://julialang.org) package for CAD of electronic devices, in particular
 superconducting devices operating at microwave frequencies.
 
+> [!TIP]
+> A successor package, [DeviceLayout.jl](https://github.com/aws-cqc/DeviceLayout.jl), has been released. It is derived from Devices.jl and contains many new features and fixes.
+
 ## Installation
 
 ### Julia 0.7 and above
